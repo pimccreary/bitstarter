@@ -25,7 +25,7 @@ var cheerio = require('cheerio');
 var rest = require('restler');
 var HTMLFILE_DEFAULT = "index.html";
 var CHECKSFILE_DEFAULT = "checks.json";
-var URL_DEFAULT = "http://evening-coast-9639.herokuapp.com/";
+var URL_DEFAULT = "http://salty-earth-3767.herokuapp.com/";
 
 /*
 var callThis = function(result) {
